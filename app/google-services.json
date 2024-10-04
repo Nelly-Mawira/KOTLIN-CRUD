@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690577705985",
+    "project_id": "fir-mvvm-9c20a",
+    "storage_bucket": "fir-mvvm-9c20a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690577705985:android:0a8764f7f634482d13c400",
+        "android_client_info": {
+          "package_name": "com.nelly.firebasemvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0DPxKIpo9RSHLowiG-sni19yliGx0NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
